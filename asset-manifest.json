@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dribble-react-cra.git/static/css/main.5e73f99e.css",
-    "main.js": "/dribble-react-cra.git/static/js/main.041a0d8a.js",
-    "static/js/453.131301d7.chunk.js": "/dribble-react-cra.git/static/js/453.131301d7.chunk.js",
-    "index.html": "/dribble-react-cra.git/index.html",
-    "main.5e73f99e.css.map": "/dribble-react-cra.git/static/css/main.5e73f99e.css.map",
-    "main.041a0d8a.js.map": "/dribble-react-cra.git/static/js/main.041a0d8a.js.map",
-    "453.131301d7.chunk.js.map": "/dribble-react-cra.git/static/js/453.131301d7.chunk.js.map"
+    "main.css": "/dribble-react-cra/static/css/main.5e73f99e.css",
+    "main.js": "/dribble-react-cra/static/js/main.02f8044e.js",
+    "static/js/453.131301d7.chunk.js": "/dribble-react-cra/static/js/453.131301d7.chunk.js",
+    "index.html": "/dribble-react-cra/index.html",
+    "main.5e73f99e.css.map": "/dribble-react-cra/static/css/main.5e73f99e.css.map",
+    "main.02f8044e.js.map": "/dribble-react-cra/static/js/main.02f8044e.js.map",
+    "453.131301d7.chunk.js.map": "/dribble-react-cra/static/js/453.131301d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e73f99e.css",
-    "static/js/main.041a0d8a.js"
+    "static/js/main.02f8044e.js"
   ]
 }
